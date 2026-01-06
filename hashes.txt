@@ -1,16 +1,6 @@
-﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Laptop\Desktop\NVidia exposed. not good\hashes.txt
-02AAFC548DAE7631B7FFDDF3FCA53174FC0C40EBA92993AB1640E8861B9F8827 *C:\Users\Laptop\Desktop\NVidia exposed. not good\National Security Threat Assessment.docx
-B7088A8098C79A957EBAD7F0B479D7088E0776F93C09FCA7FAF952A99DBF7E50 *C:\Users\Laptop\Desktop\NVidia exposed. not good\National Security Threat Assessment.epub
-020845C51F98E9253C6980C46FFBD0539AA4FAEB23E0596ADAA9E8DAB47A1289 *C:\Users\Laptop\Desktop\NVidia exposed. not good\National Security Threat Assessment.md
-283D3F4F5E7F02E51DA039AAF4623C7C6B9BB0CDA11BC027F37D4164D4588BA8 *C:\Users\Laptop\Desktop\NVidia exposed. not good\National Security Threat Assessment.odt
-F1D4CC8C4833352A612B49D7F997641F01399DD6A344BA9B46A929DB2945B1BD *C:\Users\Laptop\Desktop\NVidia exposed. not good\National Security Threat Assessment.pdf
-9F6C2F82698395B2E26D974DE28A10D53635F8929341E71C7A45CD90EAD5634E *C:\Users\Laptop\Desktop\NVidia exposed. not good\National Security Threat Assessment.rtf
-9B982FD7E4CADC9183CFCDC72F0D7C6197319DA9C760313627443B98F64DA003 *C:\Users\Laptop\Desktop\NVidia exposed. not good\National Security Threat Assessment.txt
-FF3F6D9A72EC507B5A96128EE6A3C3E457B655EB2A40EEA57B849E15DE9E351A *C:\Users\Laptop\Desktop\NVidia exposed. not good\National Security Threat Assessment.zip
-DA6C981B72C6E78CF85B2E295318FC010CAD9470B96D0E2E94DB31059D50A02F *C:\Users\Laptop\Desktop\NVidia exposed. not good\Screenshot 2026-01-05 073428.png
-3560C7068368DD8D351DC38577F0B4FF0B6AC1FB21A663E67137539D37253143 *C:\Users\Laptop\Desktop\NVidia exposed. not good\Screenshot 2026-01-05 073449.png
-2BA8AA5F0B1F6DBD12AC903F3C6D582F3E39E50D5DDF7EDFE6F9AB9B2CE764B0 *C:\Users\Laptop\Desktop\NVidia exposed. not good\Screenshot 2026-01-05 073458.png
-6FDFA5B14EADAC520FD7DEF50E62F6207D9F3883AFE7991529C230398B7E6AD3 *C:\Users\Laptop\Desktop\NVidia exposed. not good\Screenshot 2026-01-05 073506.png
-67ED6E8D5145C85DBE18DADAB15EBF58573FEC61AAFEC680E7C5B1528C25E237 *C:\Users\Laptop\Desktop\NVidia exposed. not good\Screenshot 2026-01-05 073958.png
-058C549D27A441E4BA7BBD7E42CE0E40FCBC1264F20A01454FDE98E959810B83 *C:\Users\Laptop\Desktop\NVidia exposed. not good\Screenshot 2026-01-05 074021.png
-C42BD2BDFDB488BA5B3A980E6DD7F4ED9E6BA2A4A66C280DAF03480C106CD455 *C:\Users\Laptop\Desktop\NVidia exposed. not good\Screenshot_5-1-2026_72146_www.msn.com.jpeg
+﻿E0500443030A6A5136A560EC3B276219FC025D19E78760AC750C6A179FF54A56 *C:\Users\Laptop\Desktop\Executive Exposure & National Security Risk Report\Executive Exposure & National Security Risk Report.docx
+47D38546322A65D415438826EFD88E1BCF601AF438028F2D0F9F00419D22D26D *C:\Users\Laptop\Desktop\Executive Exposure & National Security Risk Report\Executive Exposure & National Security Risk Report.md
+7E97076D726FCF9C4B7E2FDB273891FECD8EDFD0487E4B94669896C9095C1D2F *C:\Users\Laptop\Desktop\Executive Exposure & National Security Risk Report\Executive Exposure & National Security Risk Report.pdf
+E0EB9FA6BD172CC0C7DAF429C6B3D8640DEE5452D7E33E03A5BA1E64D00A8D2C *C:\Users\Laptop\Desktop\Executive Exposure & National Security Risk Report\hashes.txt
+53CD8090A39A41EB22A473F0E5E10DC9712391C9304830C881F25A52ECF173B8 *C:\Users\Laptop\Desktop\Executive Exposure & National Security Risk Report\Screenshot 2026-01-06 095527.png
+4A24C0B04B1C194CF3C823AECC007669C5BAE33A1B94494B24C097F98186562E *C:\Users\Laptop\Desktop\Executive Exposure & National Security Risk Report\Screenshot 2026-01-06 095615.png
